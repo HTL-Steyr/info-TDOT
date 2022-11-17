@@ -1,4 +1,5 @@
-# Demo
+# Tage der offenen Tür
+an der HTL Steyr
 
 --
 
