@@ -3,48 +3,55 @@ an der HTL Steyr
 
 --
 
-## Abteilungen
+## Zweige
 
 ---
 
 ## Elektronik
 
-* Steuerungs- und Automatisierungstechnik
-* Telekommunikation und Mobilfunktechnik
-* Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik
-* Medizin- und Umwelttechnik und vieles andere mehr
+* Steuerungs- und Automatisierungstechnik,
+* Telekommunikation und Mobilfunktechnik,
+* Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik,
+* Medizin- und Umwelttechnik und vieles andere mehr.
 
 ---
 
 ## Informationstechnologie
 
-You can freely mix **bold**, *italics*, `code` and normal styles
-
-* normal
-* **bold**
-* *italics*
-* `code`
+* Netzwerksicherheit und Netzwerkmanagement
+* Softwareentwicklung
+* Projekt- und Qualitätsmanagement
+* Datenbanksysteme
+* Informationsmanagement
 
 ---
 
 ## Art und Design
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
+* Designorientierung
+* Allgemeinbildung
+* Wirtschaftliche Basisausbildung
+* Vermittlung fachlicher Kompetenz in Theorie und Praxis
+* Teilnahme an Wettbewerben
+* Projektunterricht
+* Zusammenarbeit mit der Wirtschaft
+* fachorientierte Firmenbesuche
+* Einblicke in Präsentation und Logistik von Ausstellungen
+* Praxisorientierten Computereinsatz
 
 ---
 
 ## Maschinenbau
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
+Die KFZ-Abteilung der HTL Steyr bietet ihren Absolventen eine moderne Ausbildung, der ein überaus guter Ruf in der Industrie vorauseilt. Das enge Verhältnis zu allen Betrieben der Wirtschaft  ermöglicht der Abteilung, ständig am neuesten Stand zu bleiben, und dadurch den Schülern die bestmögliche Vorbereitung für das Berufsleben zu gewährleisten. Aus diesem Grund sind die Werkstätten und Laboratorien der Schule mit modernsten Mitteln ausgestattet.
 
 ---
 
 ## Mechatronik
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
+Eine solide fachtheoretische und fachpraktische Grundausbildung in den Bereichen Maschinenbau, Elektrotechnik/Elektronik und Informatik bilden die Basis für das erforderliche technische Systemverständnis.
+
+Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikationsfähigkeit, Kreativität, Zeitmanagement sowie Selbständigkeit und befähigen Absolventinnen und Absolventen in besonderem Maße für die Arbeit in fachübergreifenden Teams.
 
 --
 
