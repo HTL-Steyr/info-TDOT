@@ -9,6 +9,9 @@ an der HTL Steyr
 
 ## Elektronik
 
+> Die Zukunftstechnologien Elektronik und Technische Informatik sind Basis für
+
+
 * Steuerungs- und Automatisierungstechnik,
 * Telekommunikation und Mobilfunktechnik,
 * Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik,
