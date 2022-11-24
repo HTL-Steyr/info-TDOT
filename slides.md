@@ -9,10 +9,10 @@ an der HTL Steyr
 
 ## Elektronik
 
-* Steuerungs- und Automatisierungstechnik,
-* Telekommunikation und Mobilfunktechnik,
-* Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik,
-* Medizin- und Umwelttechnik und vieles andere mehr.
+* Steuerungs- und Automatisierungstechnik
+* Telekommunikation und Mobilfunktechnik
+* Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik
+* Medizin- und Umwelttechnik und vieles andere mehr
 
 ---
 
