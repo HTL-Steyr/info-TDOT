@@ -15,7 +15,6 @@ an der HTL Steyr
 
 > Die Zukunftstechnologien Elektronik und Technische Informatik sind Basis für
 
-
 * Steuerungs- und Automatisierungstechnik,
 * Telekommunikation und Mobilfunktechnik,
 * Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik,
@@ -24,6 +23,8 @@ an der HTL Steyr
 ---
 
 ## Informationstechnologie
+
+> Die Ausbildung in Fachtheorie und Fachpraxis steht auf den Säulen
 
 * Netzwerksicherheit und Netzwerkmanagement
 * Softwareentwicklung
@@ -34,6 +35,8 @@ an der HTL Steyr
 ---
 
 ## Art und Design
+
+> Die höhere Lehranstalt für Art and Design teilt sich in drei Ausbildungsschwerpunkte
 
 * Designorientierung
 * Allgemeinbildung
@@ -50,11 +53,15 @@ an der HTL Steyr
 
 ## Maschinenbau
 
+> Technik, die bewegt!
+
 Die KFZ-Abteilung der HTL Steyr bietet ihren Absolventen eine moderne Ausbildung, der ein überaus guter Ruf in der Industrie vorauseilt. Das enge Verhältnis zu allen Betrieben der Wirtschaft  ermöglicht der Abteilung, ständig am neuesten Stand zu bleiben, und dadurch den Schülern die bestmögliche Vorbereitung für das Berufsleben zu gewährleisten. Aus diesem Grund sind die Werkstätten und Laboratorien der Schule mit modernsten Mitteln ausgestattet.
 
 ---
 
 ## Mechatronik
+
+> Mechatronische Produkte: intelligent, innovativ und allgegenwärtig
 
 Eine solide fachtheoretische und fachpraktische Grundausbildung in den Bereichen Maschinenbau, Elektrotechnik/Elektronik und Informatik bilden die Basis für das erforderliche technische Systemverständnis.
 
