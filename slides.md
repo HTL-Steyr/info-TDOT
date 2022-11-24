@@ -3,18 +3,18 @@ an der HTL Steyr
 
 --
 
-## Typography
+## Zweige
 
 ---
 
-## Quotes
+## Elektronik
 
 > Quotes are ~~hard~~ easy
 > to write - but you can use `code`
 
 ---
 
-## Styles
+## Informationstechnologie
 
 You can freely mix **bold**, *italics*, `code` and normal styles
 
@@ -23,7 +23,28 @@ You can freely mix **bold**, *italics*, `code` and normal styles
 * *italics*
 * `code`
 
+---
+
+## Art und Design
+
+> Quotes are ~~hard~~ easy
+> to write - but you can use `code`
+
 --
+
+## Maschinenbau
+
+> Quotes are ~~hard~~ easy
+> to write - but you can use `code`
+
+---
+
+## Mechatronik
+
+> Quotes are ~~hard~~ easy
+> to write - but you can use `code`
+
+---
 
 ## Lists
 
