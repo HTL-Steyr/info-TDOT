@@ -3,7 +3,11 @@ an der HTL Steyr
 
 --
 
-## Zweige
+## Abteilungen
+
+---
+
+![](https://htl-steyr.ac.at/cache/images/htl/organigramm-htl_806x400-equal.png)
 
 ---
 
