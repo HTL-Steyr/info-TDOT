@@ -63,8 +63,6 @@ Die KFZ-Abteilung der HTL Steyr bietet ihren Absolventen eine moderne Ausbildung
 
 > Mechatronische Produkte: intelligent, innovativ und allgegenwärtig
 
-Eine solide fachtheoretische und fachpraktische Grundausbildung in den Bereichen Maschinenbau, Elektrotechnik/Elektronik und Informatik bilden die Basis für das erforderliche technische Systemverständnis.
-
 Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikationsfähigkeit, Kreativität, Zeitmanagement sowie Selbständigkeit und befähigen Absolventinnen und Absolventen in besonderem Maße für die Arbeit in fachübergreifenden Teams.
 
 --
