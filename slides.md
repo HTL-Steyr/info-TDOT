@@ -30,7 +30,7 @@ You can freely mix **bold**, *italics*, `code` and normal styles
 > Quotes are ~~hard~~ easy
 > to write - but you can use `code`
 
---
+---
 
 ## Maschinenbau
 
@@ -44,7 +44,7 @@ You can freely mix **bold**, *italics*, `code` and normal styles
 > Quotes are ~~hard~~ easy
 > to write - but you can use `code`
 
----
+--
 
 ## Lists
 
