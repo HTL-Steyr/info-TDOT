@@ -3,14 +3,19 @@ an der HTL Steyr
 
 --
 
-## Zweige
+## Abteilungen
 
 ---
 
 ## Elektronik
 
-> Quotes are ~~hard~~ easy
-> to write - but you can use `code`
+> Die Zukunftstechnologien Elektronik und Technische Informatik sind Basis für
+* Steuerungs- und Automatisierungstechnik
+* Telekommunikation und Mobilfunktechnik
+* Computer- und Netzwerktechnik, Sicherheits- und Fahrzeugtechnik
+* Medizin- und Umwelttechnik und vieles andere mehr.
+
+
 
 ---
 
