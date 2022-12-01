@@ -39,15 +39,11 @@ an der HTL Steyr
 > Die höhere Lehranstalt für Art and Design teilt sich in drei Ausbildungsschwerpunkte
 
 * Designorientierung
-* Allgemeinbildung
 * Wirtschaftliche Basisausbildung
 * Vermittlung fachlicher Kompetenz in Theorie und Praxis
-* Teilnahme an Wettbewerben
-* Projektunterricht
 * Zusammenarbeit mit der Wirtschaft
 * fachorientierte Firmenbesuche
 * Einblicke in Präsentation und Logistik von Ausstellungen
-* Praxisorientierten Computereinsatz
 
 ---
 
