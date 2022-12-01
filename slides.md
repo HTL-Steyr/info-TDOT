@@ -69,7 +69,7 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 ## Stundentafel
 
-![](images/Stundentafel_Elektronik.png)
+<img src="images/Stundentafel_Elektronik.png" height="100px" />
 
 --
 
@@ -79,7 +79,7 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 ## Stundentafel
 
-![](images/Stundentafel_Informatik.png)
+<img src="images/Stundentafel_Informatik.png" height="100px" />
 
 --
 
@@ -89,7 +89,7 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 ## Stundentafel
 
-![](images/Stundentafel_Art_und_Design.png)
+<img src="images/Stundentafel_Art_und_Design.png" height="100px" />
 
 --
 
@@ -99,7 +99,7 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 ## Stundentafel
 
-![](images/Stundentafel_Maschinenbau.png)
+<img src="images/Stundentafel_Maschinenbau.png" height="100px" />
 
 --
 
@@ -109,7 +109,7 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 ## Stundentafel
 
-![](images/Stundentafel_Mechatronik.png)
+<img src="images/Stundentafel_Mechatronik.png" height="100px" />
 
 --
 
