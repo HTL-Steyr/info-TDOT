@@ -71,7 +71,7 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 <img src="images/Stundentafel_Elektronik.png" height="500px" />
 
-<a data-permalink-href="images/Stundentafel_Elektronik.pdf" href="images/Stundentafel_Elektronik.pdf" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">Download</a>
+<button data-permalink-href="images/Stundentafel_Elektronik.pdf" href="images/Stundentafel_Elektronik.pdf" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">Download</button>
 
 --
 
