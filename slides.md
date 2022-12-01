@@ -63,7 +63,7 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 --
 
-## Elektronik
+## Projekte
 
 ---
 
