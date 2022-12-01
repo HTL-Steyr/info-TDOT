@@ -69,10 +69,50 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 ## Stundentafel
 
+![](images/Stundentafel_Elektronik)
+
 
 --
 
+## Informatik
+
 ---
+
+## Stundentafel
+
+![](images/Stundentafel_Informatik)
+
+--
+
+## Art und Design
+
+---
+
+## Stundentafel
+
+![](images/Stundentafel_Art_und_Design)
+
+--
+
+## Maschinenbau
+
+---
+
+## Stundentafel
+
+![](images/Stundentafel_Maschinenbau)
+
+--
+
+## Mechatronik
+
+---
+
+## Stundentafel
+
+![](images/Stundentafel_Mechatronik)
+
+--
 
 ## Unordered Lists
 
