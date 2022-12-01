@@ -71,6 +71,8 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 <img src="images/Stundentafel_Elektronik.png" height="500px" />
 
+<a class="github-button" href="images/Stundentafel_Elektronik.pdf" data-icon="octicon-download" aria-label="Download buttons/github-buttons on GitHub">Download</a>
+
 --
 
 ## Informatik
