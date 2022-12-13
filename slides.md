@@ -77,6 +77,13 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 ## Projekte
 
+---
+
+## Wahlmodule
+
+* [Multimedia-Systeme & Web IT](https://htl-steyr.ac.at/index.php/abteilung-elektronik/multimedia-systeme-web-it)
+* [Energiemanagement & Green IT](https://htl-steyr.ac.at/index.php/abteilung-elektronik/energiemanagement-green-it)
+
 --
 
 ## Informatik
@@ -92,13 +99,6 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 ---
 
 ## Projekte
-
----
-
-## Wahlmodule
-
-* Multimedia-Systeme & Web IT
-* Energiemanagement & Green IT
 
 --
 
