@@ -84,6 +84,12 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 * [Multimedia-Systeme & Web IT](https://htl-steyr.ac.at/index.php/abteilung-elektronik/multimedia-systeme-web-it)
 * [Energiemanagement & Green IT](https://htl-steyr.ac.at/index.php/abteilung-elektronik/energiemanagement-green-it)
 
+---
+
+## Schnuppertage
+
+...
+
 --
 
 ## Informatik
@@ -100,6 +106,12 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 ## Projekte
 
+---
+
+## Schnuppertage
+
+...
+
 --
 
 ## Art und Design
@@ -115,6 +127,13 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 ---
 
 ## Projekte
+
+---
+
+## Schnuppertage
+
+...
+
 --
 
 ## Maschinenbau
@@ -130,6 +149,13 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 ---
 
 ## Projekte
+
+---
+
+## Schnuppertage
+
+...
+
 --
 
 ## Mechatronik
@@ -145,6 +171,12 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 ---
 
 ## Projekte
+---
+
+## Schnuppertage
+
+...
+
 --
 
 ## Unordered Lists
