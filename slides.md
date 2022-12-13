@@ -92,6 +92,14 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 ---
 
 ## Projekte
+
+---
+
+## Wahlmodule
+
+* Multimedia-Systeme & Web IT
+* Energiemanagement & Green IT
+
 --
 
 ## Art und Design
