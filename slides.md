@@ -1,4 +1,4 @@
-# Tage der offenen Tür
+# Tag der offenen Tür
 an der HTL Steyr
 
 --
