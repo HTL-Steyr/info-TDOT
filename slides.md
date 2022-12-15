@@ -88,10 +88,10 @@ Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikations
 
 ## Schnuppertage
 
-Freitag 27.01.2023
-Freitag 03.02.2023
-Freitag 10.02.2023
-Freitag 17.02.2023
+* Freitag 27.01.2023
+* Freitag 03.02.2023
+* Freitag 10.02.2023
+* Freitag 17.02.2023
 
 --
 
@@ -113,10 +113,10 @@ Freitag 17.02.2023
 
 ## Schnuppertage
 
-Freitag 27.01.2023
-Freitag 03.02.2023
-Freitag 10.02.2023
-Freitag 17.02.2023
+* Freitag 27.01.2023
+* Freitag 03.02.2023
+* Freitag 10.02.2023
+* Freitag 17.02.2023
 
 --
 
@@ -138,11 +138,11 @@ Freitag 17.02.2023
 
 ## Schnuppertage
 
-Montag 16.01.2023
-Montag 23.01.2023
-Montag 30.01.2023
-Montag 06.02.2023
-Montag 13.02.2023
+* Montag 16.01.2023
+* Montag 23.01.2023
+* Montag 30.01.2023
+* Montag 06.02.2023
+* Montag 13.02.2023
 
 --
 
@@ -164,12 +164,12 @@ Montag 13.02.2023
 
 ## Schnuppertage
 
-Mittwoch 21.12.2022
-Freitag 13.01.2023
-Freitag 27.01.2023
-Freitag 03.02.2023
-Freitag 10.02.2023
-Freitag 17.02.2023
+* Mittwoch 21.12.2022
+* Freitag 13.01.2023
+* Freitag 27.01.2023
+* Freitag 03.02.2023
+* Freitag 10.02.2023
+* Freitag 17.02.2023
 
 
 --
@@ -191,10 +191,10 @@ Freitag 17.02.2023
 
 ## Schnuppertage
 
-Freitag 27.01.2023
-Freitag 03.02.2023
-Freitag 10.02.2023
-Freitag 17.02.2023
+* Freitag 27.01.2023
+* Freitag 03.02.2023
+* Freitag 10.02.2023
+* Freitag 17.02.2023
 
 --
 ## Allgemeines
