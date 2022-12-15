@@ -195,3 +195,9 @@ Freitag 27.01.2023
 Freitag 03.02.2023
 Freitag 10.02.2023
 Freitag 17.02.2023
+
+---
+## Allgemeines
+* Führungen werden alle xxx Minuten gegeben
+* Wahl zwischen Allgemeine Führung durch die Schule und Fachspezifische
+* Option für einen digitalen Rundgang durch das Schulgebäude
