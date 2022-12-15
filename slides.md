@@ -199,5 +199,5 @@ Freitag 17.02.2023
 --
 ## Allgemeines
 * Führungen werden alle xxx Minuten gegeben
-* Wahl zwischen Allgemeine Führung durch die Schule und Fachspezifische, Schüler aller Abteilungen führte interessierte Besucher durch die Werkstätten, Labors und Konstruktionssäle. Beim Rundgang wurden auch aktuelle Schulprojekte präsentiert.
+* Wahl zwischen Allgemeine Führung durch die Schule und einer Fachspezifischen, Schüler aller Abteilungen führen interessierte Besucher durch die Werkstätten, Labors und Konstruktionssäle. Beim Rundgang werden verschiedene Schulprojekte präsentiert.
 * Option für einen digitalen Rundgang durch das Schulgebäude
