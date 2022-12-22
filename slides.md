@@ -51,7 +51,11 @@ an der HTL Steyr
 
 > Technik, die bewegt!
 
-Die KFZ-Abteilung der HTL Steyr bietet ihren Absolventen eine moderne Ausbildung, der ein überaus guter Ruf in der Industrie vorauseilt. Das enge Verhältnis zu allen Betrieben der Wirtschaft  ermöglicht der Abteilung, ständig am neuesten Stand zu bleiben, und dadurch den Schülern die bestmögliche Vorbereitung für das Berufsleben zu gewährleisten. Aus diesem Grund sind die Werkstätten und Laboratorien der Schule mit modernsten Mitteln ausgestattet.
+* guter Ruf in der Industrie
+* Technik am neuesten Stand
+* bestmögliche Vorbereitung für das Berufsleben
+* Mechanik und Maschinenelemente
+* Elektronik und Automatisierung
 
 ---
 
@@ -59,7 +63,14 @@ Die KFZ-Abteilung der HTL Steyr bietet ihren Absolventen eine moderne Ausbildung
 
 > Mechatronische Produkte: intelligent, innovativ und allgegenwärtig
 
-Kooperative Lehr- und Lernmethodenin allen Gegenständen fördern Kommunikationsfähigkeit, Kreativität, Zeitmanagement sowie Selbständigkeit und befähigen Absolventinnen und Absolventen in besonderem Maße für die Arbeit in fachübergreifenden Teams.
+* fachübergreifend
+* themorientiert
+* umfassend
+* Ausbildung in Maschinenbau, Elektrotechnik/Elektronik und Informatik
+* Maschinen- und Anlagenbau
+* Medizintechnik
+* Automobiltechnik
+* Haus- und Umwelttechnik
 
 --
 
