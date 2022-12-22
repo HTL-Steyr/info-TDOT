@@ -51,6 +51,7 @@ an der HTL Steyr
 
 > Technik, die bewegt!
 
+## gehört noch überarbeitet
 * guter Ruf in der Industrie
 * Technik am neuesten Stand
 * bestmögliche Vorbereitung für das Berufsleben
@@ -64,7 +65,7 @@ an der HTL Steyr
 > Mechatronische Produkte: intelligent, innovativ und allgegenwärtig
 
 * fachübergreifend, themorientiert, umfassend
-* Ausbildung in Maschinenbau, Elektrotechnik/Elektronik und Informatik
+* Grundausbildung in Maschinenbau, Elektrotechnik/Elektronik und Informatik
 * Maschinen- und Anlagenbau
 * Medizintechnik
 * Automobiltechnik
