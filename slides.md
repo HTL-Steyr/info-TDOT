@@ -63,14 +63,11 @@ an der HTL Steyr
 
 > Mechatronische Produkte: intelligent, innovativ und allgegenwärtig
 
-* fachübergreifend
-* themorientiert
-* umfassend
+* fachübergreifend, themorientiert, umfassend
 * Ausbildung in Maschinenbau, Elektrotechnik/Elektronik und Informatik
 * Maschinen- und Anlagenbau
 * Medizintechnik
 * Automobiltechnik
-* Haus- und Umwelttechnik
 
 --
 
