@@ -1,4 +1,4 @@
-# Tag der offenen Tür <img src="images/HTL_Steyr_Logo.jpg" height="100px" />
+# Tage der offenen Tür <img src="images/HTL_Steyr_Logo.jpg" height="100px" />
 an der HTL Steyr
 
 --
